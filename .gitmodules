@@ -1,0 +1,30 @@
+[submodule "Cpp-00"]
+	path = Cpp-00
+	url = git@github.com:aurore-dcb/Cpp-00.git
+[submodule "Cpp-01"]
+	path = Cpp-01
+	url = git@github.com:aurore-dcb/Cpp-01.git
+[submodule "Cpp-02"]
+	path = Cpp-02
+	url = git@github.com:aurore-dcb/Cpp-02.git
+[submodule "Cpp-03"]
+	path = Cpp-03
+	url = git@github.com:aurore-dcb/Cpp-03.git
+[submodule "Cpp-04"]
+	path = Cpp-04
+	url = git@github.com:aurore-dcb/Cpp-04.git
+[submodule "Cpp-05"]
+	path = Cpp-05
+	url = git@github.com:aurore-dcb/Cpp-05.git
+[submodule "Cpp-06"]
+	path = Cpp-06
+	url = git@github.com:aurore-dcb/Cpp-06.git
+[submodule "Cpp-07"]
+	path = Cpp-07
+	url = git@github.com:aurore-dcb/Cpp-07.git
+[submodule "Cpp-08"]
+	path = Cpp-08
+	url = git@github.com:aurore-dcb/Cpp-08.git
+[submodule "Cpp-09"]
+	path = Cpp-09
+	url = git@github.com:aurore-dcb/Cpp-09.git
